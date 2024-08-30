@@ -1,0 +1,9 @@
+Table of Contents
+Analysis.IPYNB
+Ln 14 --- Skewness and Kurtosis chart( Monsoon Intenity, Climate change, Inadequateplanning)
+Ln 15 --- Done a correlation analysis between the variables and Inference
+Ln 16 --- Done a PCA analysis between the variables.
+Ln 17 --- Done a scree plot analysis of the variables
+Ln 18 --- Factor analysis of the variables.
+Ln 22 --- regression analysis for FloodProbability
+Ln 7  --- Created a K-means Clustering on the data with k=3 and given silhouette score
